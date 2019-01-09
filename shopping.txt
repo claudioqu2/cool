@@ -1,6 +1,6 @@
 shopping list
 -------------
-- fruit
+- onions
 - vegetables
 - detergent
 
